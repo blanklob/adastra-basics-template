@@ -1,5 +1,5 @@
 // If you are not using Github codespaces replace this config
-// with a more simpler one here https://github.com/blanklob/adastra
+// with a more simpler one here https://github.com/blanklob/adastra/tree/main/templates/basics/vite.config.js
 
 import adastra from 'adastra-plugin'
 

@@ -13,7 +13,7 @@
     "adastra-plugin": "latest",
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.6",
-    "vite": "^4.1.1"
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.1.4"
   }
 }

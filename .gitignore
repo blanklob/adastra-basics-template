@@ -22,6 +22,5 @@ logs
 *.log
 .env
 
-# Comment these to use Shopify GitHub integration
-assets/*
-!assets/.gitkeep
+# Adastra
+assets/adastra.manifest.json
